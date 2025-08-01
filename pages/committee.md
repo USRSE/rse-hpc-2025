@@ -15,6 +15,7 @@ permalink: /committee/
 
 - David Bernholdt, Oak Ridge National Laboratory, USA
 - Jeffrey Carver, University of Alabama, USA
+- Niels Drost, Keygene N.V., Netherlands
 - Rinku Gupta, Argonne National Laboratory, USA
 - Robert Haines, University of Manchester, UK
 - Catherine Jones, Science and Technology Facilities Council, UK Research and Innovation, UK
