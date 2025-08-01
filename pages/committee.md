@@ -19,7 +19,10 @@ permalink: /committee/
 - Robert Haines, University of Manchester, UK
 - Catherine Jones, Science and Technology Facilities Council, UK Research and Innovation, UK
 - Helen Kershaw, National Center for Atmospheric Research, USA
+- Lauren Milechin, Massachusetts Institute of Technology, USA
 - Miranda Mundt, Sandia National Laboratory, USA
+- Chris Nelson, AWE Nuclear Security Technologies, UK
 - Drew Paine, Lawrence Berkeley National Laboratory, USA
 - Uwe Schmitt, ETH Zurich, Switzerland
+- Max Shad, Harvard University, USA
 - Menno van Zaanen, South African Centre for Digital Language Resources, South Africa
