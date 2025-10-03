@@ -4,7 +4,7 @@ title: Agenda
 permalink: /agenda/
 ---
 
-* All times are Central Standard Time (UTC-6).*
+*All times are Central Standard Time (UTC-6).*
 
 In-person location:  America's Center Convention Complex, room 267
 
