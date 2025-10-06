@@ -31,9 +31,9 @@ Sunday, November 16, 2025
 - 3:00 pm - Break
 - 3:30 pm - Session 4
     - 40 min:  Contributed talks 2
-        - Eiffert: _Beginner's Guide to Starting a Research Community (By a Beginner)_,
+        - _Beginner's Guide to Starting a Research Community (By a Beginner)_,
         Brett Eiffert, Oak Ridge National Laboratory
-        - Watson: _To Join or Not to Join - RSE Feedback on the Perceived Value
+        - _To Join or Not to Join - RSE Feedback on the Perceived Value
         of Joining an Open Source Software Foundation_, Gregory Watson,
         Oak Ridge National Laboratory
     - 5 min:  Mini-break and panel setup
