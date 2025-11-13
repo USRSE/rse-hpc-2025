@@ -4,6 +4,8 @@ title: Agenda
 permalink: /agenda/
 ---
 
+[SC25 session page](https://sc25.conference-program.com/session/?sess=sess234)
+
 *All times are Central Standard Time (UTC-6).*
 
 In-person location:  America's Center Convention Complex, room 267
