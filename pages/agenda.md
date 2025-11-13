@@ -15,6 +15,8 @@ Sunday, November 16, 2025
 - 9:00 am - Session 1
     - 5 min:  Welcome and overview of day
     - 55 min:  Featured talk 1
+        - _Thriving with AI: Why Research Needs RSEs More Than Ever_, Sandra
+        Gesing, US Research Software Engineer Association
 - 10:00 am - Break
 - 10:30 am - Session 2
     - 40 min:  Contributed talks 1
@@ -30,6 +32,8 @@ Sunday, November 16, 2025
 - 12:30 pm - Lunch
 - 2:00 pm - Session 3
     - 60 min:  Featured talk 2
+        - _The State of Software Development for Quantum Computers_, Scott
+        Pakin, Los Alamos National Laboratory
 - 3:00 pm - Break
 - 3:30 pm - Session 4
     - 40 min:  Contributed talks 2
