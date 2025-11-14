@@ -14,7 +14,9 @@ Sunday, November 16, 2025
 
 - 9:00 am - Session 1
     - 5 min:  Welcome and overview of day
-    - 55 min:  Featured talk 1
+    - 55 min:  Featured talks 1
+        - _SWEBOK: the software engineering book of knowledge_,
+        Hironori Washizaki, Waseda University
         - _Thriving with AI: Why Research Needs RSEs More Than Ever_, Sandra
         Gesing, US Research Software Engineer Association
 - 10:00 am - Break
@@ -31,9 +33,11 @@ Sunday, November 16, 2025
         - Sheri Voelz, National Center for Atmospheric Research
 - 12:30 pm - Lunch
 - 2:00 pm - Session 3
-    - 60 min:  Featured talk 2
+    - 60 min:  Featured talks 2
         - _The State of Software Development for Quantum Computers_, Scott
         Pakin, Los Alamos National Laboratory
+        - _Scientific Software Stewardship in DOE: A Personal Perspective_,
+        David Bernholdt, Oak Ridge National Laboratory
 - 3:00 pm - Break
 - 3:30 pm - Session 4
     - 40 min:  Contributed talks 2
