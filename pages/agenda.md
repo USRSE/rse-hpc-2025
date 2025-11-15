@@ -15,7 +15,7 @@ Sunday, November 16, 2025
 - 9:00 am - Session 1
     - 5 min:  Welcome and overview of day
     - 55 min:  Featured talks 1
-        - _SWEBOK: the software engineering book of knowledge_,
+        - _SWEBOK: the software engineering body of knowledge_,
         Hironori Washizaki, Waseda University
         - _Thriving with AI: Why Research Needs RSEs More Than Ever_, Sandra
         Gesing, US Research Software Engineer Association
